@@ -25,5 +25,5 @@ I strongly believe in continuous learning as the foundation for growth and innov
 
 ##  Let's Connect!
 
-* 🔗 LinkedIn: \[https://www.linkedin.com/in/peter-samir-aa3205308/]
+* 🔗 LinkedIn: https://www.linkedin.com/in/peter-samir-aa3205308/
 * 📩 Email: <petersamir3010@gmail.com>
