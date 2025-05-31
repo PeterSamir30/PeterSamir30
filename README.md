@@ -2,7 +2,7 @@
 
 ##  About Me
 
-I'm a passionate enthusiast of Artificial Intelligence and Machine Learning, with strong experience in Natural Language Processing, Deep Learning, Data Analytics, and Data Science.
+I'm a passionate enthusiast of Artificial Intelligence and Machine Learning, with experience in Natural Language Processing, Deep Learning, Data Analytics, and Data Science.
 I love building intelligent systems that solve real-world problems, especially in the fields of AI, image processing, and NLP.
 I strongly believe in continuous learning as the foundation for growth and innovation, and I'm always eager to explore new tools, techniques, and technologies in the AI space.
 
