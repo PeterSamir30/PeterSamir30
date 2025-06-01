@@ -29,5 +29,5 @@ I'm driven by a deep curiosity for how intelligent systems can transform industr
 
 ##  Let's Connect!
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/peter-samir-aa3205308/
+* 🔗 LinkedIn: https://www.linkedin.com/in/petersamir30
 * 📩 Email: <petersamir3010@gmail.com>
